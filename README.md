@@ -5,10 +5,10 @@
 Pour commencer, clonez le dépôt distant sur votre machine locale :
 
 ```bash
-git clone <https://github.com/Alex-hexa/API-fil-rouge.git>
+git clone https://github.com/Alex-hexa/API-fil-rouge.git
 ```
 ```bash
-cd <API-fil-rouge>
+cd API-fil-rouge
 ```
 
 ## 2. Construction de l'image Docker
